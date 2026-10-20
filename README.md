@@ -23,4 +23,9 @@ simple interest = p * t * r / 100
 
 ## Project Status
 
-Repository initialized with the project README and Apache License 2.0.
+The calculator script and supporting project documentation are available:
+README, Apache License 2.0, Contributor Covenant Code of Conduct,
+and contribution guidelines.
+
+The script is a course-provided educational sample and is not intended
+for production use.
